@@ -1,0 +1,3 @@
+au commencement etait:
+- la parole 
+-et ....
